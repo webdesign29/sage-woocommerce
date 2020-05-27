@@ -1,6 +1,6 @@
 {
     "name": "webdesign29/sage-woocommerce",
-    "description": "WooCommerce integration for Sage 9",
+    "description": "WooCommerce integration for Sage 10",
     "type": "library",
     "license": "MIT",
     "authors": [
